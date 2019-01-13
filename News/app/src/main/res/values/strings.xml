@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="title_one">Virgin Galactic Space Plane Reaches New Heights In Test Flight</string>
+    <string name="title_two">U.S. Releases Mexican Journalist After A 2nd 7-Month Detention</string>
+    <string name="title_three">House Conservatives File Impeachment Articles Against Rod Rosenstein</string>
+
+    <string name="inf_one">Billionaire Richard Branson wants to be on the "first official flight" to see space as a tourist by the end of 2018. His company's latest test flight reached heights of more than 32 miles.</string>
+    <string name="inf_two">ICE agents arrested Emilio Gutierrez Soto last December — two months after the National Press Club recognized him with its Press Freedom Award.</string>
+    <string name="inf_three">Allies of President Trump have targeted the deputy attorney general over what they call foot-dragging by the Justice Department in response to requests for information.</string>
+
+    <string name="date_one">July 27, 2018</string>
+    <string name="date_two">July 27, 2018</string>
+    <string name="date_three">July 25, 2018</string>
+    <string name="no_news">No news articles was found.</string>
+    <string name="no_internet_connection">No internet can be connection.</string>
+</resources>
