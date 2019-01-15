@@ -135,7 +135,7 @@ public final class QueryUtils {
                     author.replace ( 0, 3, "No author(s) listed" );
                 }
 
-                News newsItem = new News(title, information, date, url, author.toString());
+                News newsItem = new News(title, information, date, author.toString(), url);
                 news.add(newsItem);
 
             }
